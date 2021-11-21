@@ -76,7 +76,7 @@ export default function Project() {
 										View The Project{" "}
 										<span
 											role="img"
-											aria-lebel="right pointer"
+											aria-label="right pointer"
 										>
 											👉
 										</span>
